@@ -355,7 +355,6 @@
         %>
     </div>
     <br/>
-    code by c0ny1
 </center>
 </body>
 </html>
